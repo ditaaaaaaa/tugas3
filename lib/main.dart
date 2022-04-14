@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Tugas3',
       home: home(),
-      initialRoute: home.nameRoute,
+      initialRoute: 'home.nameRoute',
       routes: {
         //'/home': (context) => home(),
         //'/profil': (context) => profil(),
