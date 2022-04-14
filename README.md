@@ -1,16 +1,4 @@
-# tugas3
+![2022-04-14](https://user-images.githubusercontent.com/101062549/163425135-62409721-24f3-45bc-9b7c-35a0971c4b2e.png)
+![2022-04-14 (1)](https://user-images.githubusercontent.com/101062549/163425148-116d0f98-1938-49e5-81af-faefe283ba16.png)
+![2022-04-14 (3)](https://user-images.githubusercontent.com/101062549/163425163-44af8d69-d37e-4a5b-8a1e-623c337a0301.png)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
